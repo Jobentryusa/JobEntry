@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jobentryusa.github.io/JobEntry/sitemap.xml
